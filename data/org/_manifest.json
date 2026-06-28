@@ -1,0 +1,204 @@
+{
+  "built": [
+    {
+      "season": 2023,
+      "team": "ATL",
+      "path": "data/org/org_ATL_2023.csv",
+      "n_nodes": 59,
+      "n_coaches": 10,
+      "n_players": 49,
+      "n_levels": 4,
+      "n_roots": 1
+    },
+    {
+      "season": 2023,
+      "team": "MIA",
+      "path": "data/org/org_MIA_2023.csv",
+      "n_nodes": 57,
+      "n_coaches": 10,
+      "n_players": 47,
+      "n_levels": 4,
+      "n_roots": 1
+    },
+    {
+      "season": 2023,
+      "team": "NYM",
+      "path": "data/org/org_NYM_2023.csv",
+      "n_nodes": 63,
+      "n_coaches": 10,
+      "n_players": 53,
+      "n_levels": 4,
+      "n_roots": 1
+    },
+    {
+      "season": 2023,
+      "team": "PHI",
+      "path": "data/org/org_PHI_2023.csv",
+      "n_nodes": 52,
+      "n_coaches": 10,
+      "n_players": 42,
+      "n_levels": 4,
+      "n_roots": 1
+    },
+    {
+      "season": 2023,
+      "team": "WSN",
+      "path": "data/org/org_WSN_2023.csv",
+      "n_nodes": 55,
+      "n_coaches": 10,
+      "n_players": 45,
+      "n_levels": 4,
+      "n_roots": 1
+    },
+    {
+      "season": 2024,
+      "team": "ATL",
+      "path": "data/org/org_ATL_2024.csv",
+      "n_nodes": 59,
+      "n_coaches": 10,
+      "n_players": 49,
+      "n_levels": 4,
+      "n_roots": 1
+    },
+    {
+      "season": 2024,
+      "team": "MIA",
+      "path": "data/org/org_MIA_2024.csv",
+      "n_nodes": 64,
+      "n_coaches": 10,
+      "n_players": 54,
+      "n_levels": 4,
+      "n_roots": 1
+    },
+    {
+      "season": 2024,
+      "team": "NYM",
+      "path": "data/org/org_NYM_2024.csv",
+      "n_nodes": 59,
+      "n_coaches": 10,
+      "n_players": 49,
+      "n_levels": 4,
+      "n_roots": 1
+    },
+    {
+      "season": 2024,
+      "team": "PHI",
+      "path": "data/org/org_PHI_2024.csv",
+      "n_nodes": 50,
+      "n_coaches": 10,
+      "n_players": 40,
+      "n_levels": 4,
+      "n_roots": 1
+    },
+    {
+      "season": 2024,
+      "team": "WSN",
+      "path": "data/org/org_WSN_2024.csv",
+      "n_nodes": 54,
+      "n_coaches": 10,
+      "n_players": 44,
+      "n_levels": 4,
+      "n_roots": 1
+    },
+    {
+      "season": 2025,
+      "team": "ATL",
+      "path": "data/org/org_ATL_2025.csv",
+      "n_nodes": 67,
+      "n_coaches": 10,
+      "n_players": 57,
+      "n_levels": 4,
+      "n_roots": 1
+    },
+    {
+      "season": 2025,
+      "team": "MIA",
+      "path": "data/org/org_MIA_2025.csv",
+      "n_nodes": 60,
+      "n_coaches": 10,
+      "n_players": 50,
+      "n_levels": 4,
+      "n_roots": 1
+    },
+    {
+      "season": 2025,
+      "team": "NYM",
+      "path": "data/org/org_NYM_2025.csv",
+      "n_nodes": 64,
+      "n_coaches": 10,
+      "n_players": 54,
+      "n_levels": 4,
+      "n_roots": 1
+    },
+    {
+      "season": 2025,
+      "team": "PHI",
+      "path": "data/org/org_PHI_2025.csv",
+      "n_nodes": 50,
+      "n_coaches": 10,
+      "n_players": 40,
+      "n_levels": 4,
+      "n_roots": 1
+    },
+    {
+      "season": 2025,
+      "team": "WSN",
+      "path": "data/org/org_WSN_2025.csv",
+      "n_nodes": 55,
+      "n_coaches": 10,
+      "n_players": 45,
+      "n_levels": 4,
+      "n_roots": 1
+    },
+    {
+      "season": 2026,
+      "team": "ATL",
+      "path": "data/org/org_ATL_2026.csv",
+      "n_nodes": 55,
+      "n_coaches": 10,
+      "n_players": 45,
+      "n_levels": 4,
+      "n_roots": 1
+    },
+    {
+      "season": 2026,
+      "team": "MIA",
+      "path": "data/org/org_MIA_2026.csv",
+      "n_nodes": 50,
+      "n_coaches": 10,
+      "n_players": 40,
+      "n_levels": 4,
+      "n_roots": 1
+    },
+    {
+      "season": 2026,
+      "team": "NYM",
+      "path": "data/org/org_NYM_2026.csv",
+      "n_nodes": 54,
+      "n_coaches": 10,
+      "n_players": 44,
+      "n_levels": 4,
+      "n_roots": 1
+    },
+    {
+      "season": 2026,
+      "team": "PHI",
+      "path": "data/org/org_PHI_2026.csv",
+      "n_nodes": 48,
+      "n_coaches": 10,
+      "n_players": 38,
+      "n_levels": 4,
+      "n_roots": 1
+    },
+    {
+      "season": 2026,
+      "team": "WSN",
+      "path": "data/org/org_WSN_2026.csv",
+      "n_nodes": 47,
+      "n_coaches": 10,
+      "n_players": 37,
+      "n_levels": 4,
+      "n_roots": 1
+    }
+  ]
+}

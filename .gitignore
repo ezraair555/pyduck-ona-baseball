@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+pip-wheel-metadata/
+
+# pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# jupyter
+.ipynb_checkpoints/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Python venvs
+venv/
+.venv/
+env/
+
+# ── Showcase-specific ──────────────────────────────────────────────────
+#
+# The pybaseball Parquet files in data/raw/ are reproducible by running
+# `python -m nl_east.extract`. They're excluded from the repo to keep
+# it small (~600 KB) and to avoid committing stats that depend on the
+# pybaseball upstream.
+data/raw/*.parquet
+
+# The outputs/ tree holds ~45 PNGs, 18 HTML dashboards, 8 CSVs, and
+# 5 Markdown reports — all regenerable by re-running the five examples.
+# Excluded for the same reason.
+outputs/figures/
+outputs/html/
+outputs/csv/
+outputs/reports/
+
+# Per-environment credentials (NEVER commit). The showcase reads
+# Google OAuth from google_tokens.json (if you have one locally).
+.env
+google_tokens.json
+data/oauth_client_secrets.json

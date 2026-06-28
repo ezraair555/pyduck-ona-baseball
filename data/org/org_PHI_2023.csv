@@ -1,0 +1,53 @@
+employee_id,supervisor_id,name,title,department,job_level,team,season,snapshot_date,mlb_id,role,games,gs,pa
+PHI-MGR-rob-thomson,,Rob Thomson,Manager,Coaching Staff,1,PHI,2023,2023-07-01,,,,,
+PHI-L2-BENCH-mike-calitri,PHI-MGR-rob-thomson,Mike Calitri,Bench Coach,Coaching Staff,2,PHI,2023,2023-07-01,,,,,
+PHI-L2-PITCHING-caleb-cotham,PHI-MGR-rob-thomson,Caleb Cotham,Pitching Coach,Coaching Staff,2,PHI,2023,2023-07-01,,,,,
+PHI-L2-HITTING-kevin-long,PHI-MGR-rob-thomson,Kevin Long,Hitting Coach,Coaching Staff,2,PHI,2023,2023-07-01,,,,,
+PHI-L3-BULLPEN,PHI-L2-PITCHING-caleb-cotham,Bullpen Coach,Bullpen Coach,Coaching Staff,3,PHI,2023,2023-07-01,,,,,
+PHI-L3-STARTERS,PHI-L2-PITCHING-caleb-cotham,Starting Pitchers Coach,Starting Pitchers Coach,Coaching Staff,3,PHI,2023,2023-07-01,,,,,
+PHI-L3-INFIELD,PHI-L2-HITTING-kevin-long,Infield Coach,Infield Coach,Coaching Staff,3,PHI,2023,2023-07-01,,,,,
+PHI-L3-OUTFIELD,PHI-L2-HITTING-kevin-long,Outfield Coach,Outfield Coach,Coaching Staff,3,PHI,2023,2023-07-01,,,,,
+PHI-L3-1B,PHI-L2-BENCH-mike-calitri,First Base Coach,First Base Coach,Coaching Staff,3,PHI,2023,2023-07-01,,,,,
+PHI-L3-3B,PHI-L2-BENCH-mike-calitri,Third Base Coach,Third Base Coach,Coaching Staff,3,PHI,2023,2023-07-01,,,,,
+MLB-621237,PHI-L3-BULLPEN,Jos\xc3\xa9 Alvarado,Pitcher,Player,4,PHI,2023,2023-07-01,621237.0,P,42.0,0.0,
+MLB-571479,PHI-L3-BULLPEN,Andrew Bellatti,Pitcher,Player,4,PHI,2023,2023-07-01,571479.0,P,27.0,0.0,
+MLB-641401,PHI-L3-BULLPEN,Connor Brogdon,Pitcher,Player,4,PHI,2023,2023-07-01,641401.0,P,27.0,1.0,
+MLB-665019,PHI-L3-BULLPEN,Kody Clemens,Pitcher,Player,4,PHI,2023,2023-07-01,665019.0,P,4.0,0.0,
+MLB-592229,PHI-L3-BULLPEN,Dylan Covey,Pitcher,Player,4,PHI,2023,2023-07-01,592229.0,P,29.0,1.0,
+MLB-622554,PHI-L3-BULLPEN,Seranthony Dom\xc3\xadnguez,Pitcher,Player,4,PHI,2023,2023-07-01,622554.0,P,57.0,0.0,
+MLB-663559,PHI-L3-STARTERS,Bailey Falter,Pitcher,Player,4,PHI,2023,2023-07-01,663559.0,P,18.0,14.0,
+MLB-543281,PHI-L3-BULLPEN,Josh Harrison,Pitcher,Player,4,PHI,2023,2023-07-01,543281.0,P,2.0,0.0,
+MLB-656546,PHI-L3-BULLPEN,Jeff Hoffman,Pitcher,Player,4,PHI,2023,2023-07-01,656546.0,P,54.0,0.0,
+MLB-689147,PHI-L3-BULLPEN,Orion Kerkering,Pitcher,Player,4,PHI,2023,2023-07-01,689147.0,P,3.0,0.0,
+MLB-518886,PHI-L3-BULLPEN,Craig Kimbrel,Pitcher,Player,4,PHI,2023,2023-07-01,518886.0,P,71.0,0.0,
+MLB-628708,PHI-L3-BULLPEN,Yunior Marte,Pitcher,Player,4,PHI,2023,2023-07-01,628708.0,P,40.0,0.0,
+MLB-686842,PHI-L3-BULLPEN,McKinley Moore,Pitcher,Player,4,PHI,2023,2023-07-01,686842.0,P,3.0,0.0,
+MLB-656793,PHI-L3-BULLPEN,Nick Nelson,Pitcher,Player,4,PHI,2023,2023-07-01,656793.0,P,1.0,0.0,
+MLB-605400,PHI-L3-STARTERS,Aaron Nola,Pitcher,Player,4,PHI,2023,2023-07-01,605400.0,P,32.0,32.0,
+MLB-656814,PHI-L3-BULLPEN,Luis Ortiz,Pitcher,Player,4,PHI,2023,2023-07-01,656814.0,P,14.0,0.0,
+MLB-674681,PHI-L3-BULLPEN,Michael Plassmeyer,Pitcher,Player,4,PHI,2023,2023-07-01,674681.0,P,1.0,1.0,
+MLB-650911,PHI-L3-STARTERS,Cristopher S\xc3\xa1nchez,Pitcher,Player,4,PHI,2023,2023-07-01,650911.0,P,19.0,18.0,
+MLB-642397,PHI-L3-BULLPEN,Gregory Soto,Pitcher,Player,4,PHI,2023,2023-07-01,642397.0,P,69.0,0.0,
+MLB-621381,PHI-L3-BULLPEN,Matt Strahm,Pitcher,Player,4,PHI,2023,2023-07-01,621381.0,P,56.0,10.0,
+MLB-624133,PHI-L3-STARTERS,Ranger Suarez,Pitcher,Player,4,PHI,2023,2023-07-01,624133.0,P,22.0,22.0,
+MLB-657272,PHI-L3-BULLPEN,Erich Uelmen,Pitcher,Player,4,PHI,2023,2023-07-01,657272.0,P,1.0,0.0,
+MLB-592836,PHI-L3-STARTERS,Taijuan Walker,Pitcher,Player,4,PHI,2023,2023-07-01,592836.0,P,31.0,31.0,
+MLB-554430,PHI-L3-STARTERS,Zack Wheeler,Pitcher,Player,4,PHI,2023,2023-07-01,554430.0,P,32.0,32.0,
+MLB-664761,PHI-L3-OUTFIELD,Alec Bohm,Position Player,Player,4,PHI,2023,2023-07-01,664761.0,H,,,611.0
+MLB-592206,PHI-L3-OUTFIELD,Nick Castellanos,Position Player,Player,4,PHI,2023,2023-07-01,592206.0,H,,,671.0
+MLB-666801,PHI-L3-INFIELD,Rodolfo Castro,Position Player,Player,4,PHI,2023,2023-07-01,666801.0,H,,,256.0
+MLB-595909,PHI-L3-OUTFIELD,Jake Cave,Position Player,Player,4,PHI,2023,2023-07-01,595909.0,H,,,203.0
+MLB-656403,PHI-L3-INFIELD,Drew Ellis,Position Player,Player,4,PHI,2023,2023-07-01,656403.0,H,,,29.0
+MLB-656495,PHI-L3-INFIELD,Dalton Guthrie,Position Player,Player,4,PHI,2023,2023-07-01,656495.0,H,,,28.0
+MLB-669742,PHI-L3-OUTFIELD,Darick Hall,Position Player,Player,4,PHI,2023,2023-07-01,669742.0,H,,,56.0
+MLB-547180,PHI-L3-OUTFIELD,Bryce Harper,Position Player,Player,4,PHI,2023,2023-07-01,547180.0,H,,,546.0
+MLB-669016,PHI-L3-OUTFIELD,Brandon Marsh,Position Player,Player,4,PHI,2023,2023-07-01,669016.0,H,,,472.0
+MLB-665506,PHI-L3-INFIELD,Cristian Pache,Position Player,Player,4,PHI,2023,2023-07-01,665506.0,H,,,95.0
+MLB-592663,PHI-L3-INFIELD,J.T. Realmuto,Position Player,Player,4,PHI,2023,2023-07-01,592663.0,H,,,540.0
+MLB-679032,PHI-L3-INFIELD,Johan Rojas,Position Player,Player,4,PHI,2023,2023-07-01,679032.0,H,,,164.0
+MLB-656941,PHI-L3-INFIELD,Kyle Schwarber,Position Player,Player,4,PHI,2023,2023-07-01,656941.0,H,,,720.0
+MLB-624641,PHI-L3-INFIELD,Edmundo Sosa,Position Player,Player,4,PHI,2023,2023-07-01,624641.0,H,,,300.0
+MLB-681082,PHI-L3-INFIELD,Bryson Stott,Position Player,Player,4,PHI,2023,2023-07-01,681082.0,H,,,640.0
+MLB-596117,PHI-L3-OUTFIELD,Garrett Stubbs,Position Player,Player,4,PHI,2023,2023-07-01,596117.0,H,,,125.0
+MLB-607208,PHI-L3-INFIELD,Trea Turner,Position Player,Player,4,PHI,2023,2023-07-01,607208.0,H,,,691.0
+MLB-642215,PHI-L3-INFIELD,Weston Wilson,Position Player,Player,4,PHI,2023,2023-07-01,642215.0,H,,,22.0

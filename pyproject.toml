@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pybaseball-nl-east"
+version = "0.1.0"
+description = "Showcase: pybaseball × pyduck-ona — NL East roster analytics 2023-2026"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+  { name = "EzraAir555 + John C. Vallier" },
+]
+dependencies = [
+  "duckdb>=0.10",
+  "pandas>=2.0",
+  "numpy>=1.24",
+  "pybaseball>=2.2",
+  "pyduck-ona",
+  "pyduck-ona-viz",
+  "pyduck-ona-profile",
+  "matplotlib>=3.7",
+  "pyvis>=0.3",
+  "sentence-transformers>=2.2",
+]
+
+[project.scripts]
+nl-east-extract = "nl_east.extract:main"
+nl-east-build-org = "nl_east.build_orgchart:main"
+
+[tool.setuptools.packages.find]
+include = ["nl_east*"]

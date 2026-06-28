@@ -1,0 +1,60 @@
+employee_id,supervisor_id,name,title,department,job_level,team,season,snapshot_date,mlb_id,role,games,gs,pa
+ATL-MGR-brian-snitker,,Brian Snitker,Manager,Coaching Staff,1,ATL,2024,2024-07-01,,,,,
+ATL-L2-BENCH-walt-weiss,ATL-MGR-brian-snitker,Walt Weiss,Bench Coach,Coaching Staff,2,ATL,2024,2024-07-01,,,,,
+ATL-L2-PITCHING-rick-kranitz,ATL-MGR-brian-snitker,Rick Kranitz,Pitching Coach,Coaching Staff,2,ATL,2024,2024-07-01,,,,,
+ATL-L2-HITTING-kevin-seitzer,ATL-MGR-brian-snitker,Kevin Seitzer,Hitting Coach,Coaching Staff,2,ATL,2024,2024-07-01,,,,,
+ATL-L3-BULLPEN,ATL-L2-PITCHING-rick-kranitz,Bullpen Coach,Bullpen Coach,Coaching Staff,3,ATL,2024,2024-07-01,,,,,
+ATL-L3-STARTERS,ATL-L2-PITCHING-rick-kranitz,Starting Pitchers Coach,Starting Pitchers Coach,Coaching Staff,3,ATL,2024,2024-07-01,,,,,
+ATL-L3-INFIELD,ATL-L2-HITTING-kevin-seitzer,Infield Coach,Infield Coach,Coaching Staff,3,ATL,2024,2024-07-01,,,,,
+ATL-L3-OUTFIELD,ATL-L2-HITTING-kevin-seitzer,Outfield Coach,Outfield Coach,Coaching Staff,3,ATL,2024,2024-07-01,,,,,
+ATL-L3-1B,ATL-L2-BENCH-walt-weiss,First Base Coach,First Base Coach,Coaching Staff,3,ATL,2024,2024-07-01,,,,,
+ATL-L3-3B,ATL-L2-BENCH-walt-weiss,Third Base Coach,Third Base Coach,Coaching Staff,3,ATL,2024,2024-07-01,,,,,
+MLB-607481,ATL-L3-BULLPEN,Aaron Bummer,Pitcher,Player,4,ATL,2024,2024-07-01,607481.0,P,56.0,0.0,
+MLB-445926,ATL-L3-BULLPEN,Jesse Chavez,Pitcher,Player,4,ATL,2024,2024-07-01,445926.0,P,46.0,0.0,
+MLB-689266,ATL-L3-BULLPEN,Dylan Dodd,Pitcher,Player,4,ATL,2024,2024-07-01,689266.0,P,1.0,0.0,
+MLB-670161,ATL-L3-BULLPEN,Parker Dunshee,Pitcher,Player,4,ATL,2024,2024-07-01,670161.0,P,1.0,0.0,
+MLB-693821,ATL-L3-STARTERS,Bryce Elder,Pitcher,Player,4,ATL,2024,2024-07-01,693821.0,P,10.0,10.0,
+MLB-608331,ATL-L3-STARTERS,Max Fried,Pitcher,Player,4,ATL,2024,2024-07-01,608331.0,P,29.0,29.0,
+MLB-623474,ATL-L3-BULLPEN,Jimmy Herget,Pitcher,Player,4,ATL,2024,2024-07-01,623474.0,P,8.0,0.0,
+MLB-678226,ATL-L3-BULLPEN,Daysbel Hern\xc3\xa1ndez,Pitcher,Player,4,ATL,2024,2024-07-01,678226.0,P,16.0,0.0,
+MLB-656550,ATL-L3-BULLPEN,Grant Holmes,Pitcher,Player,4,ATL,2024,2024-07-01,656550.0,P,26.0,7.0,
+MLB-628452,ATL-L3-BULLPEN,Raisel Iglesias,Pitcher,Player,4,ATL,2024,2024-07-01,628452.0,P,66.0,0.0,
+MLB-592426,ATL-L3-BULLPEN,Luke Jackson,Pitcher,Player,4,ATL,2024,2024-07-01,592426.0,P,52.0,0.0,
+MLB-641729,ATL-L3-BULLPEN,Joe Jim\xc3\xa9nez,Pitcher,Player,4,ATL,2024,2024-07-01,641729.0,P,69.0,0.0,
+MLB-572955,ATL-L3-BULLPEN,Pierce Johnson,Pitcher,Player,4,ATL,2024,2024-07-01,572955.0,P,58.0,0.0,
+MLB-678061,ATL-L3-BULLPEN,Ray Kerr,Pitcher,Player,4,ATL,2024,2024-07-01,678061.0,P,10.0,2.0,
+MLB-669276,ATL-L3-BULLPEN,Dylan Lee,Pitcher,Player,4,ATL,2024,2024-07-01,669276.0,P,52.0,0.0,
+MLB-625643,ATL-L3-STARTERS,Reynaldo L\xc3\xb3pez,Pitcher,Player,4,ATL,2024,2024-07-01,625643.0,P,26.0,25.0,
+MLB-554431,ATL-L3-BULLPEN,Tyler Matzek,Pitcher,Player,4,ATL,2024,2024-07-01,554431.0,P,11.0,0.0,
+MLB-621345,ATL-L3-BULLPEN,A.J. Minter,Pitcher,Player,4,ATL,2024,2024-07-01,621345.0,P,39.0,0.0,
+MLB-450203,ATL-L3-STARTERS,Charlie Morton,Pitcher,Player,4,ATL,2024,2024-07-01,450203.0,P,30.0,30.0,
+MLB-519242,ATL-L3-STARTERS,Chris Sale,Pitcher,Player,4,ATL,2024,2024-07-01,519242.0,P,29.0,29.0,
+MLB-680885,ATL-L3-STARTERS,Spencer Schwellenbach,Pitcher,Player,4,ATL,2024,2024-07-01,680885.0,P,21.0,21.0,
+MLB-700363,ATL-L3-BULLPEN,AJ Smith-Shawver,Pitcher,Player,4,ATL,2024,2024-07-01,700363.0,P,1.0,1.0,
+MLB-623451,ATL-L3-BULLPEN,Jackson Stephens,Pitcher,Player,4,ATL,2024,2024-07-01,623451.0,P,3.0,0.0,
+MLB-675911,ATL-L3-STARTERS,Spencer Strider,Pitcher,Player,4,ATL,2024,2024-07-01,675911.0,P,2.0,2.0,
+MLB-670241,ATL-L3-STARTERS,Darius Vines,Pitcher,Player,4,ATL,2024,2024-07-01,670241.0,P,4.0,2.0,
+MLB-694462,ATL-L3-STARTERS,Hurston Waldrep,Pitcher,Player,4,ATL,2024,2024-07-01,694462.0,P,2.0,2.0,
+MLB-663897,ATL-L3-BULLPEN,Luke Williams,Pitcher,Player,4,ATL,2024,2024-07-01,663897.0,P,3.0,0.0,
+MLB-642216,ATL-L3-STARTERS,Allan Winans,Pitcher,Player,4,ATL,2024,2024-07-01,642216.0,P,2.0,2.0,
+MLB-660670,ATL-L3-INFIELD,Ronald Acu\xc3\xb1a Jr.,Position Player,Player,4,ATL,2024,2024-07-01,660670.0,H,,,222.0
+MLB-645277,ATL-L3-OUTFIELD,Ozzie Albies,Position Player,Player,4,ATL,2024,2024-07-01,645277.0,H,,,435.0
+MLB-805373,ATL-L3-OUTFIELD,Nacho Alvarez Jr.,Position Player,Player,4,ATL,2024,2024-07-01,805373.0,H,,,32.0
+MLB-605119,ATL-L3-INFIELD,Brian Anderson,Position Player,Player,4,ATL,2024,2024-07-01,605119.0,H,,,5.0
+MLB-606115,ATL-L3-OUTFIELD,Orlando Arcia,Position Player,Player,4,ATL,2024,2024-07-01,606115.0,H,,,602.0
+MLB-518595,ATL-L3-INFIELD,Travis d\'Arnaud,Position Player,Player,4,ATL,2024,2024-07-01,518595.0,H,,,341.0
+MLB-594807,ATL-L3-INFIELD,Adam Duvall,Position Player,Player,4,ATL,2024,2024-07-01,594807.0,H,,,330.0
+MLB-664058,ATL-L3-OUTFIELD,David Fletcher,Position Player,Player,4,ATL,2024,2024-07-01,664058.0,H,,,9.0
+MLB-671739,ATL-L3-INFIELD,Michael Harris II,Position Player,Player,4,ATL,2024,2024-07-01,671739.0,H,,,470.0
+MLB-672284,ATL-L3-INFIELD,Jarred Kelenic,Position Player,Player,4,ATL,2024,2024-07-01,672284.0,H,,,449.0
+MLB-679881,ATL-L3-OUTFIELD,J.P. Martinez,Position Player,Player,4,ATL,2024,2024-07-01,679881.0,H,,,10.0
+MLB-593160,ATL-L3-INFIELD,Whit Merrifield,Position Player,Player,4,ATL,2024,2024-07-01,593160.0,H,,,335.0
+MLB-669221,ATL-L3-INFIELD,Sean Murphy,Position Player,Player,4,ATL,2024,2024-07-01,669221.0,H,,,264.0
+MLB-621566,ATL-L3-OUTFIELD,Matt Olson,Position Player,Player,4,ATL,2024,2024-07-01,621566.0,H,,,685.0
+MLB-542303,ATL-L3-INFIELD,Marcell Ozuna,Position Player,Player,4,ATL,2024,2024-07-01,542303.0,H,,,688.0
+MLB-663586,ATL-L3-OUTFIELD,Austin Riley,Position Player,Player,4,ATL,2024,2024-07-01,663586.0,H,,,469.0
+MLB-592696,ATL-L3-OUTFIELD,Eddie Rosario,Position Player,Player,4,ATL,2024,2024-07-01,592696.0,H,,,319.0
+MLB-624585,ATL-L3-INFIELD,Jorge Soler,Position Player,Player,4,ATL,2024,2024-07-01,624585.0,H,,,574.0
+MLB-644433,ATL-L3-INFIELD,Chadwick Tromp,Position Player,Player,4,ATL,2024,2024-07-01,644433.0,H,,,54.0
+MLB-657088,ATL-L3-INFIELD,Forrest Wall,Position Player,Player,4,ATL,2024,2024-07-01,657088.0,H,,,35.0
+MLB-642201,ATL-L3-INFIELD,Eli White,Position Player,Player,4,ATL,2024,2024-07-01,642201.0,H,,,42.0

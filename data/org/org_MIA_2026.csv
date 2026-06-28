@@ -1,0 +1,51 @@
+employee_id,supervisor_id,name,title,department,job_level,team,season,snapshot_date,mlb_id,role,games,gs,pa
+MIA-MGR-skip-schumaker,,Skip Schumaker,Manager,Coaching Staff,1,MIA,2026,2026-07-01,,,,,
+MIA-L2-BENCH-luis-ugueto,MIA-MGR-skip-schumaker,Luis Ugueto,Bench Coach,Coaching Staff,2,MIA,2026,2026-07-01,,,,,
+MIA-L2-PITCHING-mel-stottlemyre-jr,MIA-MGR-skip-schumaker,Mel Stottlemyre Jr.,Pitching Coach,Coaching Staff,2,MIA,2026,2026-07-01,,,,,
+MIA-L2-HITTING-marcus-thames,MIA-MGR-skip-schumaker,Marcus Thames,Hitting Coach,Coaching Staff,2,MIA,2026,2026-07-01,,,,,
+MIA-L3-BULLPEN,MIA-L2-PITCHING-mel-stottlemyre-jr,Bullpen Coach,Bullpen Coach,Coaching Staff,3,MIA,2026,2026-07-01,,,,,
+MIA-L3-STARTERS,MIA-L2-PITCHING-mel-stottlemyre-jr,Starting Pitchers Coach,Starting Pitchers Coach,Coaching Staff,3,MIA,2026,2026-07-01,,,,,
+MIA-L3-INFIELD,MIA-L2-HITTING-marcus-thames,Infield Coach,Infield Coach,Coaching Staff,3,MIA,2026,2026-07-01,,,,,
+MIA-L3-OUTFIELD,MIA-L2-HITTING-marcus-thames,Outfield Coach,Outfield Coach,Coaching Staff,3,MIA,2026,2026-07-01,,,,,
+MIA-L3-1B,MIA-L2-BENCH-luis-ugueto,First Base Coach,First Base Coach,Coaching Staff,3,MIA,2026,2026-07-01,,,,,
+MIA-L3-3B,MIA-L2-BENCH-luis-ugueto,Third Base Coach,Third Base Coach,Coaching Staff,3,MIA,2026,2026-07-01,,,,,
+MLB-645261,MIA-L3-STARTERS,Sandy Alcantara,Pitcher,Player,4,MIA,2026,2026-07-01,645261.0,P,17.0,17.0,
+MLB-669199,MIA-L3-BULLPEN,Lake Bachar,Pitcher,Player,4,MIA,2026,2026-07-01,669199.0,P,26.0,4.0,
+MLB-669622,MIA-L3-BULLPEN,Anthony Bender,Pitcher,Player,4,MIA,2026,2026-07-01,669622.0,P,34.0,0.0,
+MLB-694795,MIA-L3-BULLPEN,Josh Ekness,Pitcher,Player,4,MIA,2026,2026-07-01,694795.0,P,6.0,0.0,
+MLB-664126,MIA-L3-BULLPEN,Pete Fairbanks,Pitcher,Player,4,MIA,2026,2026-07-01,664126.0,P,26.0,1.0,
+MLB-676534,MIA-L3-BULLPEN,Calvin Faucher,Pitcher,Player,4,MIA,2026,2026-07-01,676534.0,P,34.0,0.0,
+MLB-690978,MIA-L3-BULLPEN,Dax Fulton,Pitcher,Player,4,MIA,2026,2026-07-01,690978.0,P,3.0,0.0,
+MLB-666129,MIA-L3-STARTERS,Braxton Garrett,Pitcher,Player,4,MIA,2026,2026-07-01,666129.0,P,2.0,2.0,
+MLB-806188,MIA-L3-BULLPEN,Cade Gibson,Pitcher,Player,4,MIA,2026,2026-07-01,806188.0,P,11.0,0.0,
+MLB-687473,MIA-L3-STARTERS,Ryan Gusto,Pitcher,Player,4,MIA,2026,2026-07-01,687473.0,P,6.0,4.0,
+MLB-676083,MIA-L3-STARTERS,Janson Junk,Pitcher,Player,4,MIA,2026,2026-07-01,676083.0,P,11.0,11.0,
+MLB-687531,MIA-L3-BULLPEN,William Kempner,Pitcher,Player,4,MIA,2026,2026-07-01,687531.0,P,6.0,0.0,
+MLB-667463,MIA-L3-BULLPEN,John King,Pitcher,Player,4,MIA,2026,2026-07-01,667463.0,P,36.0,1.0,
+MLB-676974,MIA-L3-STARTERS,Max Meyer,Pitcher,Player,4,MIA,2026,2026-07-01,676974.0,P,17.0,17.0,
+MLB-677053,MIA-L3-BULLPEN,Andrew Nardi,Pitcher,Player,4,MIA,2026,2026-07-01,677053.0,P,25.0,0.0,
+MLB-663978,MIA-L3-STARTERS,Chris Paddack,Pitcher,Player,4,MIA,2026,2026-07-01,663978.0,P,13.0,9.0,
+MLB-691587,MIA-L3-STARTERS,Eury P\xc3\xa9rez,Pitcher,Player,4,MIA,2026,2026-07-01,691587.0,P,13.0,13.0,
+MLB-656848,MIA-L3-BULLPEN,Michael Petersen,Pitcher,Player,4,MIA,2026,2026-07-01,656848.0,P,33.0,0.0,
+MLB-663969,MIA-L3-BULLPEN,Tyler Phillips,Pitcher,Player,4,MIA,2026,2026-07-01,663969.0,P,21.0,5.0,
+MLB-691594,MIA-L3-BULLPEN,Javier Sanoja,Pitcher,Player,4,MIA,2026,2026-07-01,691594.0,P,2.0,0.0,
+MLB-702281,MIA-L3-BULLPEN,Robby Snelling,Pitcher,Player,4,MIA,2026,2026-07-01,702281.0,P,1.0,1.0,
+MLB-687985,MIA-L3-BULLPEN,Josh White,Pitcher,Player,4,MIA,2026,2026-07-01,687985.0,P,1.0,0.0,
+MLB-676604,MIA-L3-BULLPEN,Tyler Zuber,Pitcher,Player,4,MIA,2026,2026-07-01,676604.0,P,8.0,0.0,
+MLB-683357,MIA-L3-INFIELD,Owen Caissie,Position Player,Player,4,MIA,2026,2026-07-01,683357.0,H,,,219.0
+MLB-665052,MIA-L3-OUTFIELD,Griffin Conine,Position Player,Player,4,MIA,2026,2026-07-01,665052.0,H,,,41.0
+MLB-691277,MIA-L3-INFIELD,Deyvison De Los Santos,Position Player,Player,4,MIA,2026,2026-07-01,691277.0,H,,,7.0
+MLB-669364,MIA-L3-INFIELD,Xavier Edwards,Position Player,Player,4,MIA,2026,2026-07-01,669364.0,H,,,342.0
+MLB-681715,MIA-L3-OUTFIELD,Heriberto Hern\xc3\xa1ndez,Position Player,Player,4,MIA,2026,2026-07-01,681715.0,H,,,176.0
+MLB-689414,MIA-L3-INFIELD,Liam Hicks,Position Player,Player,4,MIA,2026,2026-07-01,689414.0,H,,,288.0
+MLB-677870,MIA-L3-INFIELD,Leo Jimenez,Position Player,Player,4,MIA,2026,2026-07-01,677870.0,H,,,92.0
+MLB-672640,MIA-L3-INFIELD,Otto Lopez,Position Player,Player,4,MIA,2026,2026-07-01,672640.0,H,,,344.0
+MLB-691788,MIA-L3-INFIELD,Joe Mack,Position Player,Player,4,MIA,2026,2026-07-01,691788.0,H,,,132.0
+MLB-805300,MIA-L3-INFIELD,Jakob Marsee,Position Player,Player,4,MIA,2026,2026-07-01,805300.0,H,,,332.0
+MLB-666624,MIA-L3-OUTFIELD,Christopher Morel,Position Player,Player,4,MIA,2026,2026-07-01,666624.0,H,,,73.0
+MLB-640459,MIA-L3-INFIELD,Brian Navarreto,Position Player,Player,4,MIA,2026,2026-07-01,640459.0,H,,,3.0
+MLB-681393,MIA-L3-OUTFIELD,Connor Norby,Position Player,Player,4,MIA,2026,2026-07-01,681393.0,H,,,233.0
+MLB-688363,MIA-L3-OUTFIELD,Graham Pauley,Position Player,Player,4,MIA,2026,2026-07-01,688363.0,H,,,95.0
+MLB-682663,MIA-L3-OUTFIELD,Agust\xc3\xadn Ram\xc3\xadrez,Position Player,Player,4,MIA,2026,2026-07-01,682663.0,H,,,129.0
+MLB-665923,MIA-L3-OUTFIELD,Esteury Ruiz,Position Player,Player,4,MIA,2026,2026-07-01,665923.0,H,,,92.0
+MLB-669065,MIA-L3-OUTFIELD,Kyle Stowers,Position Player,Player,4,MIA,2026,2026-07-01,669065.0,H,,,244.0

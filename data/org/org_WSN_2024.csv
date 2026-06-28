@@ -1,0 +1,55 @@
+employee_id,supervisor_id,name,title,department,job_level,team,season,snapshot_date,mlb_id,role,games,gs,pa
+WSN-MGR-dave-martinez,,Dave Martinez,Manager,Coaching Staff,1,WSN,2024,2024-07-01,,,,,
+WSN-L2-BENCH-miguel-cairo,WSN-MGR-dave-martinez,Miguel Cairo,Bench Coach,Coaching Staff,2,WSN,2024,2024-07-01,,,,,
+WSN-L2-PITCHING-jim-hickey,WSN-MGR-dave-martinez,Jim Hickey,Pitching Coach,Coaching Staff,2,WSN,2024,2024-07-01,,,,,
+WSN-L2-HITTING-rick-schu,WSN-MGR-dave-martinez,Rick Schu,Hitting Coach,Coaching Staff,2,WSN,2024,2024-07-01,,,,,
+WSN-L3-BULLPEN,WSN-L2-PITCHING-jim-hickey,Bullpen Coach,Bullpen Coach,Coaching Staff,3,WSN,2024,2024-07-01,,,,,
+WSN-L3-STARTERS,WSN-L2-PITCHING-jim-hickey,Starting Pitchers Coach,Starting Pitchers Coach,Coaching Staff,3,WSN,2024,2024-07-01,,,,,
+WSN-L3-INFIELD,WSN-L2-HITTING-rick-schu,Infield Coach,Infield Coach,Coaching Staff,3,WSN,2024,2024-07-01,,,,,
+WSN-L3-OUTFIELD,WSN-L2-HITTING-rick-schu,Outfield Coach,Outfield Coach,Coaching Staff,3,WSN,2024,2024-07-01,,,,,
+WSN-L3-1B,WSN-L2-BENCH-miguel-cairo,First Base Coach,First Base Coach,Coaching Staff,3,WSN,2024,2024-07-01,,,,,
+WSN-L3-3B,WSN-L2-BENCH-miguel-cairo,Third Base Coach,Third Base Coach,Coaching Staff,3,WSN,2024,2024-07-01,,,,,
+MLB-672851,WSN-L3-BULLPEN,Joan Adon,Pitcher,Player,4,WSN,2024,2024-07-01,672851.0,P,8.0,1.0,
+MLB-606930,WSN-L3-BULLPEN,Jacob Barnes,Pitcher,Player,4,WSN,2024,2024-07-01,606930.0,P,63.0,0.0,
+MLB-598264,WSN-L3-BULLPEN,Matt Barnes,Pitcher,Player,4,WSN,2024,2024-07-01,598264.0,P,14.0,0.0,
+MLB-694350,WSN-L3-BULLPEN,Zach Brzykcy,Pitcher,Player,4,WSN,2024,2024-07-01,694350.0,P,6.0,0.0,
+MLB-571578,WSN-L3-STARTERS,Patrick Corbin,Pitcher,Player,4,WSN,2024,2024-07-01,571578.0,P,32.0,32.0,
+MLB-678606,WSN-L3-BULLPEN,Jose A. Ferrer,Pitcher,Player,4,WSN,2024,2024-07-01,678606.0,P,31.0,0.0,
+MLB-640448,WSN-L3-BULLPEN,Kyle Finnegan,Pitcher,Player,4,WSN,2024,2024-07-01,640448.0,P,65.0,0.0,
+MLB-571670,WSN-L3-BULLPEN,Dylan Floro,Pitcher,Player,4,WSN,2024,2024-07-01,571670.0,P,66.0,0.0,
+MLB-676395,WSN-L3-BULLPEN,Robert Garcia,Pitcher,Player,4,WSN,2024,2024-07-01,676395.0,P,72.0,0.0,
+MLB-669022,WSN-L3-STARTERS,MacKenzie Gore,Pitcher,Player,4,WSN,2024,2024-07-01,669022.0,P,32.0,32.0,
+MLB-680686,WSN-L3-STARTERS,Josiah Gray,Pitcher,Player,4,WSN,2024,2024-07-01,680686.0,P,2.0,2.0,
+MLB-687792,WSN-L3-STARTERS,DJ Herz,Pitcher,Player,4,WSN,2024,2024-07-01,687792.0,P,19.0,19.0,
+MLB-663623,WSN-L3-STARTERS,Jake Irvin,Pitcher,Player,4,WSN,2024,2024-07-01,663623.0,P,33.0,33.0,
+MLB-686747,WSN-L3-BULLPEN,Joe La Sorsa,Pitcher,Player,4,WSN,2024,2024-07-01,686747.0,P,16.0,0.0,
+MLB-571882,WSN-L3-BULLPEN,Derek Law,Pitcher,Player,4,WSN,2024,2024-07-01,571882.0,P,75.0,0.0,
+MLB-680730,WSN-L3-STARTERS,Mitchell Parker,Pitcher,Player,4,WSN,2024,2024-07-01,680730.0,P,29.0,29.0,
+MLB-663432,WSN-L3-BULLPEN,Tanner Rainey,Pitcher,Player,4,WSN,2024,2024-07-01,663432.0,P,50.0,0.0,
+MLB-687377,WSN-L3-BULLPEN,Orlando Ribalta,Pitcher,Player,4,WSN,2024,2024-07-01,687377.0,P,4.0,0.0,
+MLB-671131,WSN-L3-BULLPEN,Jackson Rutledge,Pitcher,Player,4,WSN,2024,2024-07-01,671131.0,P,3.0,1.0,
+MLB-674285,WSN-L3-BULLPEN,Eduardo Salazar,Pitcher,Player,4,WSN,2024,2024-07-01,674285.0,P,26.0,0.0,
+MLB-545121,WSN-L3-BULLPEN,Ildemaro Vargas,Pitcher,Player,4,WSN,2024,2024-07-01,545121.0,P,2.0,0.0,
+MLB-607179,WSN-L3-BULLPEN,Jordan Weems,Pitcher,Player,4,WSN,2024,2024-07-01,607179.0,P,41.0,0.0,
+MLB-592866,WSN-L3-STARTERS,Trevor Williams,Pitcher,Player,4,WSN,2024,2024-07-01,592866.0,P,13.0,13.0,
+MLB-686294,WSN-L3-BULLPEN,Amos Willingham,Pitcher,Player,4,WSN,2024,2024-07-01,686294.0,P,1.0,0.0,
+MLB-682928,WSN-L3-INFIELD,CJ Abrams,Position Player,Player,4,WSN,2024,2024-07-01,682928.0,H,,,602.0
+MLB-656180,WSN-L3-OUTFIELD,Riley Adams,Position Player,Player,4,WSN,2024,2024-07-01,656180.0,H,,,130.0
+MLB-671117,WSN-L3-OUTFIELD,Darren Baker,Position Player,Player,4,WSN,2024,2024-07-01,671117.0,H,,,14.0
+MLB-663905,WSN-L3-INFIELD,Travis Blankenhorn,Position Player,Player,4,WSN,2024,2024-07-01,663905.0,H,,,32.0
+MLB-669743,WSN-L3-INFIELD,Alex Call,Position Player,Player,4,WSN,2024,2024-07-01,669743.0,H,,,113.0
+MLB-665953,WSN-L3-OUTFIELD,Andr\xc3\xa9s Chaparro,Position Player,Player,4,WSN,2024,2024-07-01,665953.0,H,,,132.0
+MLB-686611,WSN-L3-OUTFIELD,Dylan Crews,Position Player,Player,4,WSN,2024,2024-07-01,686611.0,H,,,132.0
+MLB-608336,WSN-L3-INFIELD,Joey Gallo,Position Player,Player,4,WSN,2024,2024-07-01,608336.0,H,,,260.0
+MLB-671277,WSN-L3-OUTFIELD,Luis Garc\xc3\xada Jr.,Position Player,Player,4,WSN,2024,2024-07-01,671277.0,H,,,528.0
+MLB-656448,WSN-L3-OUTFIELD,Stone Garrett,Position Player,Player,4,WSN,2024,2024-07-01,656448.0,H,,,6.0
+MLB-702358,WSN-L3-OUTFIELD,Trey Lipscomb,Position Player,Player,4,WSN,2024,2024-07-01,702358.0,H,,,211.0
+MLB-608841,WSN-L3-OUTFIELD,Joey Meneses,Position Player,Player,4,WSN,2024,2024-07-01,608841.0,H,,,313.0
+MLB-686452,WSN-L3-INFIELD,Drew Millas,Position Player,Player,4,WSN,2024,2024-07-01,686452.0,H,,,62.0
+MLB-683083,WSN-L3-OUTFIELD,Nasim Nu\xc3\xb1ez,Position Player,Player,4,WSN,2024,2024-07-01,683083.0,H,,,78.0
+MLB-592696,WSN-L3-OUTFIELD,Eddie Rosario,Position Player,Player,4,WSN,2024,2024-07-01,592696.0,H,,,319.0
+MLB-660688,WSN-L3-OUTFIELD,Keibert Ruiz,Position Player,Player,4,WSN,2024,2024-07-01,660688.0,H,,,485.0
+MLB-608385,WSN-L3-INFIELD,Jesse Winker,Position Player,Player,4,WSN,2024,2024-07-01,608385.0,H,,,508.0
+MLB-695578,WSN-L3-OUTFIELD,James Wood,Position Player,Player,4,WSN,2024,2024-07-01,695578.0,H,,,336.0
+MLB-660766,WSN-L3-INFIELD,Juan Yepez,Position Player,Player,4,WSN,2024,2024-07-01,660766.0,H,,,249.0
+MLB-696285,WSN-L3-INFIELD,Jacob Young,Position Player,Player,4,WSN,2024,2024-07-01,696285.0,H,,,521.0

@@ -1,0 +1,65 @@
+employee_id,supervisor_id,name,title,department,job_level,team,season,snapshot_date,mlb_id,role,games,gs,pa
+NYM-MGR-carlos-mendoza,,Carlos Mendoza,Manager,Coaching Staff,1,NYM,2025,2025-07-01,,,,,
+NYM-L2-BENCH-john-gibbons,NYM-MGR-carlos-mendoza,John Gibbons,Bench Coach,Coaching Staff,2,NYM,2025,2025-07-01,,,,,
+NYM-L2-PITCHING-jeremy-hefner,NYM-MGR-carlos-mendoza,Jeremy Hefner,Pitching Coach,Coaching Staff,2,NYM,2025,2025-07-01,,,,,
+NYM-L2-HITTING-eric-chavez,NYM-MGR-carlos-mendoza,Eric Chavez,Hitting Coach,Coaching Staff,2,NYM,2025,2025-07-01,,,,,
+NYM-L3-BULLPEN,NYM-L2-PITCHING-jeremy-hefner,Bullpen Coach,Bullpen Coach,Coaching Staff,3,NYM,2025,2025-07-01,,,,,
+NYM-L3-STARTERS,NYM-L2-PITCHING-jeremy-hefner,Starting Pitchers Coach,Starting Pitchers Coach,Coaching Staff,3,NYM,2025,2025-07-01,,,,,
+NYM-L3-INFIELD,NYM-L2-HITTING-eric-chavez,Infield Coach,Infield Coach,Coaching Staff,3,NYM,2025,2025-07-01,,,,,
+NYM-L3-OUTFIELD,NYM-L2-HITTING-eric-chavez,Outfield Coach,Outfield Coach,Coaching Staff,3,NYM,2025,2025-07-01,,,,,
+NYM-L3-1B,NYM-L2-BENCH-john-gibbons,First Base Coach,First Base Coach,Coaching Staff,3,NYM,2025,2025-07-01,,,,,
+NYM-L3-3B,NYM-L2-BENCH-john-gibbons,Third Base Coach,Third Base Coach,Coaching Staff,3,NYM,2025,2025-07-01,,,,,
+MLB-686654,NYM-L3-BULLPEN,Ty Adcock,Pitcher,Player,4,NYM,2025,2025-07-01,686654.0,P,3.0,0.0,
+MLB-623211,NYM-L3-BULLPEN,Huascar Brazob\xc3\xa1n,Pitcher,Player,4,NYM,2025,2025-07-01,623211.0,P,52.0,3.0,
+MLB-676130,NYM-L3-BULLPEN,Jos\xc3\xa9 Butt\xc3\xb3,Pitcher,Player,4,NYM,2025,2025-07-01,676130.0,P,55.0,0.0,
+MLB-656288,NYM-L3-STARTERS,Griffin Canning,Pitcher,Player,4,NYM,2025,2025-07-01,656288.0,P,16.0,16.0,
+MLB-692024,NYM-L3-BULLPEN,Alex Carrillo,Pitcher,Player,4,NYM,2025,2025-07-01,692024.0,P,3.0,0.0,
+MLB-606965,NYM-L3-BULLPEN,Chris Devenski,Pitcher,Player,4,NYM,2025,2025-07-01,606965.0,P,13.0,1.0,
+MLB-621242,NYM-L3-BULLPEN,Edwin D\xc3\xadaz,Pitcher,Player,4,NYM,2025,2025-07-01,621242.0,P,62.0,0.0,
+MLB-657585,NYM-L3-BULLPEN,Reed Garrett,Pitcher,Player,4,NYM,2025,2025-07-01,657585.0,P,58.0,1.0,
+MLB-621057,NYM-L3-BULLPEN,Justin Garza,Pitcher,Player,4,NYM,2025,2025-07-01,621057.0,P,5.0,0.0,
+MLB-663795,NYM-L3-BULLPEN,Justin Hagenman,Pitcher,Player,4,NYM,2025,2025-07-01,663795.0,P,9.0,1.0,
+MLB-687589,NYM-L3-BULLPEN,Dom Hamel,Pitcher,Player,4,NYM,2025,2025-07-01,687589.0,P,1.0,0.0,
+MLB-664854,NYM-L3-BULLPEN,Ryan Helsley,Pitcher,Player,4,NYM,2025,2025-07-01,664854.0,P,58.0,0.0,
+MLB-643361,NYM-L3-BULLPEN,Kevin Herget,Pitcher,Player,4,NYM,2025,2025-07-01,643361.0,P,7.0,0.0,
+MLB-605280,NYM-L3-STARTERS,Clay Holmes,Pitcher,Player,4,NYM,2025,2025-07-01,605280.0,P,33.0,31.0,
+MLB-608671,NYM-L3-BULLPEN,Travis Jankowski,Pitcher,Player,4,NYM,2025,2025-07-01,608671.0,P,1.0,0.0,
+MLB-668820,NYM-L3-BULLPEN,Max Kranick,Pitcher,Player,4,NYM,2025,2025-07-01,668820.0,P,24.0,0.0,
+MLB-640455,NYM-L3-STARTERS,Sean Manaea,Pitcher,Player,4,NYM,2025,2025-07-01,640455.0,P,15.0,12.0,
+MLB-690997,NYM-L3-STARTERS,Nolan McLean,Pitcher,Player,4,NYM,2025,2025-07-01,690997.0,P,8.0,8.0,
+MLB-656731,NYM-L3-STARTERS,Tylor Megill,Pitcher,Player,4,NYM,2025,2025-07-01,656731.0,P,14.0,14.0,
+MLB-621345,NYM-L3-BULLPEN,A.J. Minter,Pitcher,Player,4,NYM,2025,2025-07-01,621345.0,P,13.0,0.0,
+MLB-593423,NYM-L3-STARTERS,Frankie Montas,Pitcher,Player,4,NYM,2025,2025-07-01,593423.0,P,9.0,7.0,
+MLB-673380,NYM-L3-BULLPEN,Dedniel N\xc3\xba\xc3\xb1ez,Pitcher,Player,4,NYM,2025,2025-07-01,673380.0,P,10.0,0.0,
+MLB-656849,NYM-L3-STARTERS,David Peterson,Pitcher,Player,4,NYM,2025,2025-07-01,656849.0,P,30.0,30.0,
+MLB-702752,NYM-L3-BULLPEN,Jonathan Pintaro,Pitcher,Player,4,NYM,2025,2025-07-01,702752.0,P,1.0,0.0,
+MLB-621363,NYM-L3-BULLPEN,Colin Poche,Pitcher,Player,4,NYM,2025,2025-07-01,621363.0,P,14.0,0.0,
+MLB-548384,NYM-L3-BULLPEN,Brooks Raley,Pitcher,Player,4,NYM,2025,2025-07-01,548384.0,P,30.0,0.0,
+MLB-643511,NYM-L3-BULLPEN,Tyler Rogers,Pitcher,Player,4,NYM,2025,2025-07-01,643511.0,P,81.0,0.0,
+MLB-673540,NYM-L3-STARTERS,Kodai Senga,Pitcher,Player,4,NYM,2025,2025-07-01,673540.0,P,22.0,22.0,
+MLB-687075,NYM-L3-STARTERS,Brandon Sproat,Pitcher,Player,4,NYM,2025,2025-07-01,687075.0,P,4.0,4.0,
+MLB-592773,NYM-L3-BULLPEN,Ryne Stanek,Pitcher,Player,4,NYM,2025,2025-07-01,592773.0,P,65.0,0.0,
+MLB-694918,NYM-L3-STARTERS,Blade Tidwell,Pitcher,Player,4,NYM,2025,2025-07-01,694918.0,P,4.0,2.0,
+MLB-804636,NYM-L3-STARTERS,Jonah Tong,Pitcher,Player,4,NYM,2025,2025-07-01,804636.0,P,5.0,5.0,
+MLB-620443,NYM-L3-BULLPEN,Luis Torrens,Pitcher,Player,4,NYM,2025,2025-07-01,620443.0,P,2.0,0.0,
+MLB-663399,NYM-L3-BULLPEN,Brandon Waddell,Pitcher,Player,4,NYM,2025,2025-07-01,663399.0,P,11.0,1.0,
+MLB-681810,NYM-L3-BULLPEN,Austin Warren,Pitcher,Player,4,NYM,2025,2025-07-01,681810.0,P,5.0,0.0,
+MLB-664849,NYM-L3-BULLPEN,Danny Young,Pitcher,Player,4,NYM,2025,2025-07-01,664849.0,P,10.0,0.0,
+MLB-676724,NYM-L3-BULLPEN,Jared Young,Pitcher,Player,4,NYM,2025,2025-07-01,676724.0,P,1.0,0.0,
+MLB-676604,NYM-L3-BULLPEN,Tyler Zuber,Pitcher,Player,4,NYM,2025,2025-07-01,676604.0,P,10.0,0.0,
+MLB-682668,NYM-L3-OUTFIELD,Luisangel Acu\xc3\xb1a,Position Player,Player,4,NYM,2025,2025-07-01,682668.0,H,,,193.0
+MLB-624413,NYM-L3-OUTFIELD,Pete Alonso,Position Player,Player,4,NYM,2025,2025-07-01,624413.0,H,,,709.0
+MLB-682626,NYM-L3-INFIELD,Francisco Alvarez,Position Player,Player,4,NYM,2025,2025-07-01,682626.0,H,,,277.0
+MLB-640492,NYM-L3-INFIELD,Jos\xc3\xa9 Az\xc3\xb3car,Position Player,Player,4,NYM,2025,2025-07-01,640492.0,H,,,21.0
+MLB-683146,NYM-L3-INFIELD,Brett Baty,Position Player,Player,4,NYM,2025,2025-07-01,683146.0,H,,,432.0
+MLB-596019,NYM-L3-OUTFIELD,Francisco Lindor,Position Player,Player,4,NYM,2025,2025-07-01,596019.0,H,,,732.0
+MLB-516782,NYM-L3-INFIELD,Starling Marte,Position Player,Player,4,NYM,2025,2025-07-01,516782.0,H,,,329.0
+MLB-677595,NYM-L3-INFIELD,Ronny Mauricio,Position Player,Player,4,NYM,2025,2025-07-01,677595.0,H,,,184.0
+MLB-643446,NYM-L3-OUTFIELD,Jeff McNeil,Position Player,Player,4,NYM,2025,2025-07-01,643446.0,H,,,462.0
+MLB-607043,NYM-L3-OUTFIELD,Brandon Nimmo,Position Player,Player,4,NYM,2025,2025-07-01,607043.0,H,,,652.0
+MLB-663584,NYM-L3-OUTFIELD,Hayden Senger,Position Player,Player,4,NYM,2025,2025-07-01,663584.0,H,,,78.0
+MLB-642350,NYM-L3-OUTFIELD,Jose Siri,Position Player,Player,4,NYM,2025,2025-07-01,642350.0,H,,,36.0
+MLB-665742,NYM-L3-OUTFIELD,Juan Soto,Position Player,Player,4,NYM,2025,2025-07-01,665742.0,H,,,715.0
+MLB-621438,NYM-L3-OUTFIELD,Tyrone Taylor,Position Player,Player,4,NYM,2025,2025-07-01,621438.0,H,,,341.0
+MLB-668901,NYM-L3-OUTFIELD,Mark Vientos,Position Player,Player,4,NYM,2025,2025-07-01,668901.0,H,,,463.0
+MLB-608385,NYM-L3-INFIELD,Jesse Winker,Position Player,Player,4,NYM,2025,2025-07-01,608385.0,H,,,81.0

@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-06-28T04:04:47.425957+00:00",
+  "today": "2026-06-28",
+  "seasons": {
+    "2023": {
+      "batting_rows": 104,
+      "pitching_rows": 137,
+      "batting_path": "data/raw/batting_2023.parquet",
+      "pitching_path": "data/raw/pitching_2023.parquet",
+      "cached": false,
+      "end_date": "2023-10-01"
+    },
+    "2024": {
+      "batting_rows": 100,
+      "pitching_rows": 141,
+      "batting_path": "data/raw/batting_2024.parquet",
+      "pitching_path": "data/raw/pitching_2024.parquet",
+      "cached": false,
+      "end_date": "2024-09-30"
+    },
+    "2025": {
+      "batting_rows": 100,
+      "pitching_rows": 145,
+      "batting_path": "data/raw/batting_2025.parquet",
+      "pitching_path": "data/raw/pitching_2025.parquet",
+      "cached": false,
+      "end_date": "2025-09-28"
+    },
+    "2026": {
+      "batting_rows": 93,
+      "pitching_rows": 115,
+      "batting_path": "data/raw/batting_2026.parquet",
+      "pitching_path": "data/raw/pitching_2026.parquet",
+      "cached": false,
+      "end_date": "2026-06-28"
+    }
+  }
+}

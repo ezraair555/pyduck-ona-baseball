@@ -1,0 +1,64 @@
+employee_id,supervisor_id,name,title,department,job_level,team,season,snapshot_date,mlb_id,role,games,gs,pa
+NYM-MGR-carlos-mendoza,,Carlos Mendoza,Manager,Coaching Staff,1,NYM,2023,2023-07-01,,,,,
+NYM-L2-BENCH-john-gibbons,NYM-MGR-carlos-mendoza,John Gibbons,Bench Coach,Coaching Staff,2,NYM,2023,2023-07-01,,,,,
+NYM-L2-PITCHING-jeremy-hefner,NYM-MGR-carlos-mendoza,Jeremy Hefner,Pitching Coach,Coaching Staff,2,NYM,2023,2023-07-01,,,,,
+NYM-L2-HITTING-eric-chavez,NYM-MGR-carlos-mendoza,Eric Chavez,Hitting Coach,Coaching Staff,2,NYM,2023,2023-07-01,,,,,
+NYM-L3-BULLPEN,NYM-L2-PITCHING-jeremy-hefner,Bullpen Coach,Bullpen Coach,Coaching Staff,3,NYM,2023,2023-07-01,,,,,
+NYM-L3-STARTERS,NYM-L2-PITCHING-jeremy-hefner,Starting Pitchers Coach,Starting Pitchers Coach,Coaching Staff,3,NYM,2023,2023-07-01,,,,,
+NYM-L3-INFIELD,NYM-L2-HITTING-eric-chavez,Infield Coach,Infield Coach,Coaching Staff,3,NYM,2023,2023-07-01,,,,,
+NYM-L3-OUTFIELD,NYM-L2-HITTING-eric-chavez,Outfield Coach,Outfield Coach,Coaching Staff,3,NYM,2023,2023-07-01,,,,,
+NYM-L3-1B,NYM-L2-BENCH-john-gibbons,First Base Coach,First Base Coach,Coaching Staff,3,NYM,2023,2023-07-01,,,,,
+NYM-L3-3B,NYM-L2-BENCH-john-gibbons,Third Base Coach,Third Base Coach,Coaching Staff,3,NYM,2023,2023-07-01,,,,,
+MLB-641360,NYM-L3-BULLPEN,Phil Bickford,Pitcher,Player,4,NYM,2023,2023-07-01,641360.0,P,61.0,0.0,
+MLB-656257,NYM-L3-BULLPEN,Jeff Brigham,Pitcher,Player,4,NYM,2023,2023-07-01,656257.0,P,37.0,0.0,
+MLB-676130,NYM-L3-STARTERS,Jos\xc3\xa9 Butt\xc3\xb3,Pitcher,Player,4,NYM,2023,2023-07-01,676130.0,P,9.0,7.0,
+MLB-471911,NYM-L3-STARTERS,Carlos Carrasco,Pitcher,Player,4,NYM,2023,2023-07-01,471911.0,P,20.0,20.0,
+MLB-656322,NYM-L3-BULLPEN,Sam Coonrod,Pitcher,Player,4,NYM,2023,2023-07-01,656322.0,P,10.0,0.0,
+MLB-595928,NYM-L3-BULLPEN,John Curtiss,Pitcher,Player,4,NYM,2023,2023-07-01,595928.0,P,15.0,0.0,
+MLB-641645,NYM-L3-BULLPEN,Luis Guillorme,Pitcher,Player,4,NYM,2023,2023-07-01,641645.0,P,1.0,0.0,
+MLB-701643,NYM-L3-BULLPEN,Grant Hartwig,Pitcher,Player,4,NYM,2023,2023-07-01,701643.0,P,28.0,0.0,
+MLB-488984,NYM-L3-BULLPEN,Tommy Hunter,Pitcher,Player,4,NYM,2023,2023-07-01,488984.0,P,14.0,0.0,
+MLB-641743,NYM-L3-BULLPEN,Anthony Kay,Pitcher,Player,4,NYM,2023,2023-07-01,641743.0,P,16.0,0.0,
+MLB-592473,NYM-L3-BULLPEN,Adam Kolarek,Pitcher,Player,4,NYM,2023,2023-07-01,592473.0,P,5.0,0.0,
+MLB-664192,NYM-L3-STARTERS,Joey Lucchesi,Pitcher,Player,4,NYM,2023,2023-07-01,664192.0,P,9.0,9.0,
+MLB-519008,NYM-L3-BULLPEN,T.J. McFarland,Pitcher,Player,4,NYM,2023,2023-07-01,519008.0,P,3.0,0.0,
+MLB-656731,NYM-L3-STARTERS,Tylor Megill,Pitcher,Player,4,NYM,2023,2023-07-01,656731.0,P,25.0,25.0,
+MLB-664901,NYM-L3-BULLPEN,Danny Mendick,Pitcher,Player,4,NYM,2023,2023-07-01,664901.0,P,2.0,0.0,
+MLB-668338,NYM-L3-BULLPEN,Tyson Miller,Pitcher,Player,4,NYM,2023,2023-07-01,668338.0,P,10.0,0.0,
+MLB-669105,NYM-L3-BULLPEN,Zach Muckenhirn,Pitcher,Player,4,NYM,2023,2023-07-01,669105.0,P,3.0,0.0,
+MLB-657697,NYM-L3-BULLPEN,Vinny Nittoli,Pitcher,Player,4,NYM,2023,2023-07-01,657697.0,P,3.0,0.0,
+MLB-668665,NYM-L3-BULLPEN,Stephen Nogosek,Pitcher,Player,4,NYM,2023,2023-07-01,668665.0,P,13.0,0.0,
+MLB-493603,NYM-L3-BULLPEN,Adam Ottavino,Pitcher,Player,4,NYM,2023,2023-07-01,493603.0,P,66.0,0.0,
+MLB-656849,NYM-L3-STARTERS,David Peterson,Pitcher,Player,4,NYM,2023,2023-07-01,656849.0,P,27.0,21.0,
+MLB-500779,NYM-L3-STARTERS,Jose Quintana,Pitcher,Player,4,NYM,2023,2023-07-01,500779.0,P,13.0,13.0,
+MLB-548384,NYM-L3-BULLPEN,Brooks Raley,Pitcher,Player,4,NYM,2023,2023-07-01,548384.0,P,66.0,0.0,
+MLB-656887,NYM-L3-BULLPEN,Sean Reid-Foley,Pitcher,Player,4,NYM,2023,2023-07-01,656887.0,P,8.0,0.0,
+MLB-660593,NYM-L3-STARTERS,Denyi Reyes,Pitcher,Player,4,NYM,2023,2023-07-01,660593.0,P,9.0,3.0,
+MLB-502085,NYM-L3-BULLPEN,David Robertson,Pitcher,Player,4,NYM,2023,2023-07-01,502085.0,P,62.0,0.0,
+MLB-642701,NYM-L3-BULLPEN,Dennis Santana,Pitcher,Player,4,NYM,2023,2023-07-01,642701.0,P,9.0,0.0,
+MLB-673540,NYM-L3-STARTERS,Kodai Senga,Pitcher,Player,4,NYM,2023,2023-07-01,673540.0,P,29.0,29.0,
+MLB-622098,NYM-L3-BULLPEN,Drew Smith,Pitcher,Player,4,NYM,2023,2023-07-01,622098.0,P,62.0,0.0,
+MLB-670955,NYM-L3-BULLPEN,Edwin Uceta,Pitcher,Player,4,NYM,2023,2023-07-01,670955.0,P,1.0,0.0,
+MLB-677020,NYM-L3-BULLPEN,Josh Walker,Pitcher,Player,4,NYM,2023,2023-07-01,677020.0,P,14.0,0.0,
+MLB-642231,NYM-L3-BULLPEN,Jimmy Yacabonis,Pitcher,Player,4,NYM,2023,2023-07-01,642231.0,P,7.0,0.0,
+MLB-501659,NYM-L3-OUTFIELD,Abraham Almonte,Position Player,Player,4,NYM,2023,2023-07-01,501659.0,H,,,16.0
+MLB-624413,NYM-L3-OUTFIELD,Pete Alonso,Position Player,Player,4,NYM,2023,2023-07-01,624413.0,H,,,658.0
+MLB-682626,NYM-L3-INFIELD,Francisco Alvarez,Position Player,Player,4,NYM,2023,2023-07-01,682626.0,H,,,423.0
+MLB-660620,NYM-L3-OUTFIELD,Jonathan Ara\xc3\xbaz,Position Player,Player,4,NYM,2023,2023-07-01,660620.0,H,,,66.0
+MLB-683146,NYM-L3-INFIELD,Brett Baty,Position Player,Player,4,NYM,2023,2023-07-01,683146.0,H,,,389.0
+MLB-592192,NYM-L3-INFIELD,Mark Canha,Position Player,Player,4,NYM,2023,2023-07-01,592192.0,H,,,507.0
+MLB-596019,NYM-L3-OUTFIELD,Francisco Lindor,Position Player,Player,4,NYM,2023,2023-07-01,596019.0,H,,,687.0
+MLB-641796,NYM-L3-INFIELD,Tim Locastro,Position Player,Player,4,NYM,2023,2023-07-01,641796.0,H,,,67.0
+MLB-516782,NYM-L3-INFIELD,Starling Marte,Position Player,Player,4,NYM,2023,2023-07-01,516782.0,H,,,341.0
+MLB-677595,NYM-L3-INFIELD,Ronny Mauricio,Position Player,Player,4,NYM,2023,2023-07-01,677595.0,H,,,108.0
+MLB-643446,NYM-L3-OUTFIELD,Jeff McNeil,Position Player,Player,4,NYM,2023,2023-07-01,643446.0,H,,,648.0
+MLB-553882,NYM-L3-OUTFIELD,Omar Narv\xc3\xa1ez,Position Player,Player,4,NYM,2023,2023-07-01,553882.0,H,,,146.0
+MLB-621512,NYM-L3-INFIELD,Tom\xc3\xa1s Nido,Position Player,Player,4,NYM,2023,2023-07-01,621512.0,H,,,61.0
+MLB-607043,NYM-L3-OUTFIELD,Brandon Nimmo,Position Player,Player,4,NYM,2023,2023-07-01,607043.0,H,,,682.0
+MLB-542364,NYM-L3-OUTFIELD,Rafael Ortega,Position Player,Player,4,NYM,2023,2023-07-01,542364.0,H,,,136.0
+MLB-605421,NYM-L3-INFIELD,Michael P\xc3\xa9rez,Position Player,Player,4,NYM,2023,2023-07-01,605421.0,H,,,8.0
+MLB-502054,NYM-L3-INFIELD,Tommy Pham,Position Player,Player,4,NYM,2023,2023-07-01,502054.0,H,,,481.0
+MLB-596142,NYM-L3-OUTFIELD,Gary S\xc3\xa1nchez,Position Player,Player,4,NYM,2023,2023-07-01,596142.0,H,,,267.0
+MLB-621466,NYM-L3-INFIELD,DJ Stewart,Position Player,Player,4,NYM,2023,2023-07-01,621466.0,H,,,185.0
+MLB-668901,NYM-L3-OUTFIELD,Mark Vientos,Position Player,Player,4,NYM,2023,2023-07-01,668901.0,H,,,233.0
+MLB-596129,NYM-L3-INFIELD,Daniel Vogelbach,Position Player,Player,4,NYM,2023,2023-07-01,596129.0,H,,,319.0

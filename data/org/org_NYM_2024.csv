@@ -1,0 +1,60 @@
+employee_id,supervisor_id,name,title,department,job_level,team,season,snapshot_date,mlb_id,role,games,gs,pa
+NYM-MGR-carlos-mendoza,,Carlos Mendoza,Manager,Coaching Staff,1,NYM,2024,2024-07-01,,,,,
+NYM-L2-BENCH-john-gibbons,NYM-MGR-carlos-mendoza,John Gibbons,Bench Coach,Coaching Staff,2,NYM,2024,2024-07-01,,,,,
+NYM-L2-PITCHING-jeremy-hefner,NYM-MGR-carlos-mendoza,Jeremy Hefner,Pitching Coach,Coaching Staff,2,NYM,2024,2024-07-01,,,,,
+NYM-L2-HITTING-eric-chavez,NYM-MGR-carlos-mendoza,Eric Chavez,Hitting Coach,Coaching Staff,2,NYM,2024,2024-07-01,,,,,
+NYM-L3-BULLPEN,NYM-L2-PITCHING-jeremy-hefner,Bullpen Coach,Bullpen Coach,Coaching Staff,3,NYM,2024,2024-07-01,,,,,
+NYM-L3-STARTERS,NYM-L2-PITCHING-jeremy-hefner,Starting Pitchers Coach,Starting Pitchers Coach,Coaching Staff,3,NYM,2024,2024-07-01,,,,,
+NYM-L3-INFIELD,NYM-L2-HITTING-eric-chavez,Infield Coach,Infield Coach,Coaching Staff,3,NYM,2024,2024-07-01,,,,,
+NYM-L3-OUTFIELD,NYM-L2-HITTING-eric-chavez,Outfield Coach,Outfield Coach,Coaching Staff,3,NYM,2024,2024-07-01,,,,,
+NYM-L3-1B,NYM-L2-BENCH-john-gibbons,First Base Coach,First Base Coach,Coaching Staff,3,NYM,2024,2024-07-01,,,,,
+NYM-L3-3B,NYM-L2-BENCH-john-gibbons,Third Base Coach,Third Base Coach,Coaching Staff,3,NYM,2024,2024-07-01,,,,,
+MLB-686654,NYM-L3-BULLPEN,Ty Adcock,Pitcher,Player,4,NYM,2024,2024-07-01,686654.0,P,3.0,0.0,
+MLB-657193,NYM-L3-BULLPEN,Eddy Alvarez,Pitcher,Player,4,NYM,2024,2024-07-01,657193.0,P,1.0,0.0,
+MLB-623211,NYM-L3-BULLPEN,Huascar Brazob\xc3\xa1n,Pitcher,Player,4,NYM,2024,2024-07-01,623211.0,P,39.0,0.0,
+MLB-676130,NYM-L3-BULLPEN,Jos\xc3\xa9 Butt\xc3\xb3,Pitcher,Player,4,NYM,2024,2024-07-01,676130.0,P,30.0,7.0,
+MLB-621242,NYM-L3-BULLPEN,Edwin D\xc3\xadaz,Pitcher,Player,4,NYM,2024,2024-07-01,621242.0,P,54.0,0.0,
+MLB-518617,NYM-L3-BULLPEN,Jake Diekman,Pitcher,Player,4,NYM,2024,2024-07-01,518617.0,P,43.0,0.0,
+MLB-657585,NYM-L3-BULLPEN,Reed Garrett,Pitcher,Player,4,NYM,2024,2024-07-01,657585.0,P,53.0,0.0,
+MLB-701643,NYM-L3-BULLPEN,Grant Hartwig,Pitcher,Player,4,NYM,2024,2024-07-01,701643.0,P,4.0,0.0,
+MLB-605288,NYM-L3-STARTERS,Adrian Houser,Pitcher,Player,4,NYM,2024,2024-07-01,605288.0,P,23.0,7.0,
+MLB-664079,NYM-L3-BULLPEN,Tyler Jay,Pitcher,Player,4,NYM,2024,2024-07-01,664079.0,P,5.0,0.0,
+MLB-605347,NYM-L3-BULLPEN,Jorge L\xc3\xb3pez,Pitcher,Player,4,NYM,2024,2024-07-01,605347.0,P,52.0,0.0,
+MLB-664192,NYM-L3-STARTERS,Joey Lucchesi,Pitcher,Player,4,NYM,2024,2024-07-01,664192.0,P,2.0,2.0,
+MLB-640455,NYM-L3-STARTERS,Sean Manaea,Pitcher,Player,4,NYM,2024,2024-07-01,640455.0,P,32.0,32.0,
+MLB-656731,NYM-L3-STARTERS,Tylor Megill,Pitcher,Player,4,NYM,2024,2024-07-01,656731.0,P,16.0,15.0,
+MLB-673380,NYM-L3-BULLPEN,Dedniel N\xc3\xba\xc3\xb1ez,Pitcher,Player,4,NYM,2024,2024-07-01,673380.0,P,25.0,0.0,
+MLB-679358,NYM-L3-BULLPEN,Eric Orze,Pitcher,Player,4,NYM,2024,2024-07-01,679358.0,P,2.0,0.0,
+MLB-493603,NYM-L3-BULLPEN,Adam Ottavino,Pitcher,Player,4,NYM,2024,2024-07-01,493603.0,P,60.0,0.0,
+MLB-656849,NYM-L3-STARTERS,David Peterson,Pitcher,Player,4,NYM,2024,2024-07-01,656849.0,P,21.0,21.0,
+MLB-500779,NYM-L3-STARTERS,Jose Quintana,Pitcher,Player,4,NYM,2024,2024-07-01,500779.0,P,31.0,31.0,
+MLB-548384,NYM-L3-BULLPEN,Brooks Raley,Pitcher,Player,4,NYM,2024,2024-07-01,548384.0,P,8.0,0.0,
+MLB-656887,NYM-L3-BULLPEN,Sean Reid-Foley,Pitcher,Player,4,NYM,2024,2024-07-01,656887.0,P,23.0,0.0,
+MLB-681035,NYM-L3-STARTERS,Christian Scott,Pitcher,Player,4,NYM,2024,2024-07-01,681035.0,P,9.0,9.0,
+MLB-673540,NYM-L3-BULLPEN,Kodai Senga,Pitcher,Player,4,NYM,2024,2024-07-01,673540.0,P,1.0,1.0,
+MLB-622663,NYM-L3-STARTERS,Luis Severino,Pitcher,Player,4,NYM,2024,2024-07-01,622663.0,P,31.0,31.0,
+MLB-622098,NYM-L3-BULLPEN,Drew Smith,Pitcher,Player,4,NYM,2024,2024-07-01,622098.0,P,19.0,0.0,
+MLB-527054,NYM-L3-BULLPEN,Julio Teheran,Pitcher,Player,4,NYM,2024,2024-07-01,527054.0,P,1.0,1.0,
+MLB-620443,NYM-L3-BULLPEN,Luis Torrens,Pitcher,Player,4,NYM,2024,2024-07-01,620443.0,P,1.0,0.0,
+MLB-677020,NYM-L3-BULLPEN,Josh Walker,Pitcher,Player,4,NYM,2024,2024-07-01,677020.0,P,10.0,0.0,
+MLB-622065,NYM-L3-BULLPEN,Alex Young,Pitcher,Player,4,NYM,2024,2024-07-01,622065.0,P,17.0,0.0,
+MLB-664849,NYM-L3-BULLPEN,Danny Young,Pitcher,Player,4,NYM,2024,2024-07-01,664849.0,P,42.0,0.0,
+MLB-682668,NYM-L3-OUTFIELD,Luisangel Acu\xc3\xb1a,Position Player,Player,4,NYM,2024,2024-07-01,682668.0,H,,,40.0
+MLB-624413,NYM-L3-OUTFIELD,Pete Alonso,Position Player,Player,4,NYM,2024,2024-07-01,624413.0,H,,,695.0
+MLB-682626,NYM-L3-INFIELD,Francisco Alvarez,Position Player,Player,4,NYM,2024,2024-07-01,682626.0,H,,,342.0
+MLB-664056,NYM-L3-INFIELD,Harrison Bader,Position Player,Player,4,NYM,2024,2024-07-01,664056.0,H,,,437.0
+MLB-683146,NYM-L3-INFIELD,Brett Baty,Position Player,Player,4,NYM,2024,2024-07-01,683146.0,H,,,171.0
+MLB-621529,NYM-L3-OUTFIELD,Joe Hudson,Position Player,Player,4,NYM,2024,2024-07-01,621529.0,H,,,0.0
+MLB-578428,NYM-L3-INFIELD,Jose Iglesias,Position Player,Player,4,NYM,2024,2024-07-01,578428.0,H,,,291.0
+MLB-596019,NYM-L3-OUTFIELD,Francisco Lindor,Position Player,Player,4,NYM,2024,2024-07-01,596019.0,H,,,689.0
+MLB-516782,NYM-L3-INFIELD,Starling Marte,Position Player,Player,4,NYM,2024,2024-07-01,516782.0,H,,,370.0
+MLB-502110,NYM-L3-OUTFIELD,J.D. Martinez,Position Player,Player,4,NYM,2024,2024-07-01,502110.0,H,,,495.0
+MLB-643446,NYM-L3-OUTFIELD,Jeff McNeil,Position Player,Player,4,NYM,2024,2024-07-01,643446.0,H,,,472.0
+MLB-553882,NYM-L3-OUTFIELD,Omar Narv\xc3\xa1ez,Position Player,Player,4,NYM,2024,2024-07-01,553882.0,H,,,69.0
+MLB-621512,NYM-L3-INFIELD,Tom\xc3\xa1s Nido,Position Player,Player,4,NYM,2024,2024-07-01,621512.0,H,,,140.0
+MLB-607043,NYM-L3-OUTFIELD,Brandon Nimmo,Position Player,Player,4,NYM,2024,2024-07-01,607043.0,H,,,663.0
+MLB-621466,NYM-L3-INFIELD,DJ Stewart,Position Player,Player,4,NYM,2024,2024-07-01,621466.0,H,,,194.0
+MLB-621438,NYM-L3-OUTFIELD,Tyrone Taylor,Position Player,Player,4,NYM,2024,2024-07-01,621438.0,H,,,345.0
+MLB-668901,NYM-L3-OUTFIELD,Mark Vientos,Position Player,Player,4,NYM,2024,2024-07-01,668901.0,H,,,454.0
+MLB-621563,NYM-L3-INFIELD,Joey Wendle,Position Player,Player,4,NYM,2024,2024-07-01,621563.0,H,,,37.0
+MLB-608385,NYM-L3-INFIELD,Jesse Winker,Position Player,Player,4,NYM,2024,2024-07-01,608385.0,H,,,508.0

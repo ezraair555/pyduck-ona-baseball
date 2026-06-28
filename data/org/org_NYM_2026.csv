@@ -1,0 +1,55 @@
+employee_id,supervisor_id,name,title,department,job_level,team,season,snapshot_date,mlb_id,role,games,gs,pa
+NYM-MGR-carlos-mendoza,,Carlos Mendoza,Manager,Coaching Staff,1,NYM,2026,2026-07-01,,,,,
+NYM-L2-BENCH-john-gibbons,NYM-MGR-carlos-mendoza,John Gibbons,Bench Coach,Coaching Staff,2,NYM,2026,2026-07-01,,,,,
+NYM-L2-PITCHING-jeremy-hefner,NYM-MGR-carlos-mendoza,Jeremy Hefner,Pitching Coach,Coaching Staff,2,NYM,2026,2026-07-01,,,,,
+NYM-L2-HITTING-eric-chavez,NYM-MGR-carlos-mendoza,Eric Chavez,Hitting Coach,Coaching Staff,2,NYM,2026,2026-07-01,,,,,
+NYM-L3-BULLPEN,NYM-L2-PITCHING-jeremy-hefner,Bullpen Coach,Bullpen Coach,Coaching Staff,3,NYM,2026,2026-07-01,,,,,
+NYM-L3-STARTERS,NYM-L2-PITCHING-jeremy-hefner,Starting Pitchers Coach,Starting Pitchers Coach,Coaching Staff,3,NYM,2026,2026-07-01,,,,,
+NYM-L3-INFIELD,NYM-L2-HITTING-eric-chavez,Infield Coach,Infield Coach,Coaching Staff,3,NYM,2026,2026-07-01,,,,,
+NYM-L3-OUTFIELD,NYM-L2-HITTING-eric-chavez,Outfield Coach,Outfield Coach,Coaching Staff,3,NYM,2026,2026-07-01,,,,,
+NYM-L3-1B,NYM-L2-BENCH-john-gibbons,First Base Coach,First Base Coach,Coaching Staff,3,NYM,2026,2026-07-01,,,,,
+NYM-L3-3B,NYM-L2-BENCH-john-gibbons,Third Base Coach,Third Base Coach,Coaching Staff,3,NYM,2026,2026-07-01,,,,,
+MLB-623211,NYM-L3-BULLPEN,Huascar Brazob\xc3\xa1n,Pitcher,Player,4,NYM,2026,2026-07-01,623211.0,P,34.0,6.0,
+MLB-650960,NYM-L3-BULLPEN,Daniel Duarte,Pitcher,Player,4,NYM,2026,2026-07-01,650960.0,P,3.0,0.0,
+MLB-605218,NYM-L3-BULLPEN,Carl Edwards Jr.,Pitcher,Player,4,NYM,2026,2026-07-01,605218.0,P,2.0,0.0,
+MLB-680702,NYM-L3-BULLPEN,Joey Gerber,Pitcher,Player,4,NYM,2026,2026-07-01,680702.0,P,3.0,0.0,
+MLB-605280,NYM-L3-STARTERS,Clay Holmes,Pitcher,Player,4,NYM,2026,2026-07-01,605280.0,P,9.0,9.0,
+MLB-663992,NYM-L3-BULLPEN,Richard Lovelady,Pitcher,Player,4,NYM,2026,2026-07-01,663992.0,P,32.0,5.0,
+MLB-640455,NYM-L3-BULLPEN,Sean Manaea,Pitcher,Player,4,NYM,2026,2026-07-01,640455.0,P,17.0,3.0,
+MLB-690997,NYM-L3-STARTERS,Nolan McLean,Pitcher,Player,4,NYM,2026,2026-07-01,690997.0,P,16.0,16.0,
+MLB-621345,NYM-L3-BULLPEN,A.J. Minter,Pitcher,Player,4,NYM,2026,2026-07-01,621345.0,P,12.0,0.0,
+MLB-668964,NYM-L3-BULLPEN,Tobias Myers,Pitcher,Player,4,NYM,2026,2026-07-01,668964.0,P,23.0,3.0,
+MLB-642547,NYM-L3-STARTERS,Freddy Peralta,Pitcher,Player,4,NYM,2026,2026-07-01,642547.0,P,17.0,17.0,
+MLB-672335,NYM-L3-BULLPEN,Cionel P\xc3\xa9rez,Pitcher,Player,4,NYM,2026,2026-07-01,672335.0,P,26.0,0.0,
+MLB-656849,NYM-L3-STARTERS,David Peterson,Pitcher,Player,4,NYM,2026,2026-07-01,656849.0,P,16.0,8.0,
+MLB-702752,NYM-L3-BULLPEN,Jonathan Pintaro,Pitcher,Player,4,NYM,2026,2026-07-01,702752.0,P,5.0,0.0,
+MLB-548384,NYM-L3-BULLPEN,Brooks Raley,Pitcher,Player,4,NYM,2026,2026-07-01,548384.0,P,33.0,0.0,
+MLB-681035,NYM-L3-STARTERS,Christian Scott,Pitcher,Player,4,NYM,2026,2026-07-01,681035.0,P,9.0,9.0,
+MLB-673540,NYM-L3-STARTERS,Kodai Senga,Pitcher,Player,4,NYM,2026,2026-07-01,673540.0,P,7.0,7.0,
+MLB-670097,NYM-L3-BULLPEN,Zack Short,Pitcher,Player,4,NYM,2026,2026-07-01,670097.0,P,1.0,0.0,
+MLB-804267,NYM-L3-STARTERS,Zach Thornton,Pitcher,Player,4,NYM,2026,2026-07-01,804267.0,P,2.0,2.0,
+MLB-804636,NYM-L3-BULLPEN,Jonah Tong,Pitcher,Player,4,NYM,2026,2026-07-01,804636.0,P,3.0,0.0,
+MLB-681810,NYM-L3-BULLPEN,Austin Warren,Pitcher,Player,4,NYM,2026,2026-07-01,681810.0,P,23.0,2.0,
+MLB-596133,NYM-L3-BULLPEN,Luke Weaver,Pitcher,Player,4,NYM,2026,2026-07-01,596133.0,P,32.0,0.0,
+MLB-642207,NYM-L3-BULLPEN,Devin Williams,Pitcher,Player,4,NYM,2026,2026-07-01,642207.0,P,29.0,0.0,
+MLB-682626,NYM-L3-INFIELD,Francisco Alvarez,Position Player,Player,4,NYM,2026,2026-07-01,682626.0,H,,,184.0
+MLB-683146,NYM-L3-INFIELD,Brett Baty,Position Player,Player,4,NYM,2026,2026-07-01,683146.0,H,,,268.0
+MLB-701807,NYM-L3-INFIELD,Carson Benge,Position Player,Player,4,NYM,2026,2026-07-01,701807.0,H,,,320.0
+MLB-666182,NYM-L3-INFIELD,Bo Bichette,Position Player,Player,4,NYM,2026,2026-07-01,666182.0,H,,,358.0
+MLB-660644,NYM-L3-INFIELD,Vidal Bruj\xc3\xa1n,Position Player,Player,4,NYM,2026,2026-07-01,660644.0,H,,,13.0
+MLB-805999,NYM-L3-OUTFIELD,A.J. Ewing,Position Player,Player,4,NYM,2026,2026-07-01,805999.0,H,,,162.0
+MLB-596019,NYM-L3-OUTFIELD,Francisco Lindor,Position Player,Player,4,NYM,2026,2026-07-01,596019.0,H,,,114.0
+MLB-677595,NYM-L3-INFIELD,Ronny Mauricio,Position Player,Player,4,NYM,2026,2026-07-01,677595.0,H,,,40.0
+MLB-669004,NYM-L3-OUTFIELD,MJ Melendez,Position Player,Player,4,NYM,2026,2026-07-01,669004.0,H,,,144.0
+MLB-703492,NYM-L3-INFIELD,Nick Morabito,Position Player,Player,4,NYM,2026,2026-07-01,703492.0,H,,,12.0
+MLB-502054,NYM-L3-INFIELD,Tommy Pham,Position Player,Player,4,NYM,2026,2026-07-01,502054.0,H,,,14.0
+MLB-593871,NYM-L3-INFIELD,Jorge Polanco,Position Player,Player,4,NYM,2026,2026-07-01,593871.0,H,,,61.0
+MLB-673357,NYM-L3-INFIELD,Luis Robert Jr.,Position Player,Player,4,NYM,2026,2026-07-01,673357.0,H,,,98.0
+MLB-543760,NYM-L3-OUTFIELD,Marcus Semien,Position Player,Player,4,NYM,2026,2026-07-01,543760.0,H,,,318.0
+MLB-663584,NYM-L3-OUTFIELD,Hayden Senger,Position Player,Player,4,NYM,2026,2026-07-01,663584.0,H,,,17.0
+MLB-665742,NYM-L3-OUTFIELD,Juan Soto,Position Player,Player,4,NYM,2026,2026-07-01,665742.0,H,,,268.0
+MLB-621438,NYM-L3-OUTFIELD,Tyrone Taylor,Position Player,Player,4,NYM,2026,2026-07-01,621438.0,H,,,104.0
+MLB-620443,NYM-L3-OUTFIELD,Luis Torrens,Position Player,Player,4,NYM,2026,2026-07-01,620443.0,H,,,148.0
+MLB-668901,NYM-L3-OUTFIELD,Mark Vientos,Position Player,Player,4,NYM,2026,2026-07-01,668901.0,H,,,235.0
+MLB-676572,NYM-L3-OUTFIELD,Eric Wagaman,Position Player,Player,4,NYM,2026,2026-07-01,676572.0,H,,,25.0
+MLB-676724,NYM-L3-INFIELD,Jared Young,Position Player,Player,4,NYM,2026,2026-07-01,676724.0,H,,,110.0
