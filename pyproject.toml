@@ -31,3 +31,9 @@ nl-east-build-org = "nl_east.build_orgchart:main"
 
 [tool.setuptools.packages.find]
 include = ["nl_east*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "-ra --strict-markers"
+
